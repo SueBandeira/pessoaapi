@@ -4,43 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adb64cd8-e034-4c4b-a7a6-f931df1b1c69" name="Changes" comment="" />
+    <list default="true" id="adb64cd8-e034-4c4b-a7a6-f931df1b1c69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/stack/StackController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pessoaapi/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/pessoa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/pessoa/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/pessoa/PessoaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/pessoa/PessoaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/pessoa/PessoaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/pessoa/PessoaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/pessoa/PessoaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pessoaapi/src/main/java/com/sue/pessoaapi/pessoa/PessoaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pessoaapi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pessoaapi/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/desafio_tecnico_gestor_rh" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SueBandeira"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SueBandeira&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/SueBandeira/desafio_tecnico_gestor_rh.git",
+    "url": "https://github.com/SueBandeira/pessoaapi.git",
     "accountId": "e69a380a-6157-47be-b827-4cf0337f8b6b"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2oROhyMlcAtCFFf90tna2aBSQto" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AplicationInitial.executor": "Run",
+    "Application.PessoaapiApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/suell/Downloads/pessoaapi"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="AplicationInitial" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.sue.pessoaapi.PessoaapiApplication" />
+      <module name="pessoaapi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,5 +85,16 @@
       <updated>1730829044462</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
